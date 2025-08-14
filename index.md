@@ -1,4 +1,5 @@
-# Documentation to install vipre using product key already purchased for new users.
+# How to Download and Install Norton with a Product Key via www.norton.com/setup
 
-My first project, i am so happy. Yippie
+Valuable information for the users.
+
 
